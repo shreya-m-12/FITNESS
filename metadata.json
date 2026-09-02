@@ -1,0 +1,6 @@
+{
+  "name": "OPENMOVE India",
+  "description": "National Activity Equity & Sports Infrastructure Intelligence Platform for MYAS, MoHUA & Urban Local Bodies.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
